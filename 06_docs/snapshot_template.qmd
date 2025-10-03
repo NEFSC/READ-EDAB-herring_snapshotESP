@@ -83,7 +83,7 @@ This is a short-form update to the full Ecosystem and Socioeconomic Profile \[1\
 
 :::{
 \vspace{0.5cm}
-\section{NEW ENGLAND RISK POLICY SUMMARY (PLACEHOLDER)}
+\section{NEW ENGLAND RISK POLICY SUMMARY}
 :::
 
 ::: {}
@@ -91,14 +91,7 @@ This is a short-form update to the full Ecosystem and Socioeconomic Profile \[1\
 
 \raggedright
 
-<!-- According to the [New England `r params$terminal_year` risk policy](`r params$risk_url`), Black Sea Bass scored high and/or moderately high risk in the following elements: -->
-
--   What type of information is useful to summarize here?
-    -   Risks to meeting management objectives
-    -   Compile existing risk indicators relevant to the stock
-    -   Sources of management and model uncertainty
--   Some capacity to develop our own risk indicators and/or provide additional context based on other ecosystem risk indicators
--   Is there other information related to stock-level risk that should go here?
+Commercial landings, number of vessels, and vessel revenue have seen recent declines, suggesting a more risk-averse commercial fishery characterization. However, price per lb is well above average, which may mitigate some risk. Fish condition for 2024 is neutral to above average and may be a less risk-averse factor. A short duration in optimal larval temperature suggests risk of climate vulnerability, however lower predation by haddock may mitigate risk through strong recruitment.
     
 :::
 
