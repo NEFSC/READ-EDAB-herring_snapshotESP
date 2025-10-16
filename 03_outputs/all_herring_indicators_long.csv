@@ -1,0 +1,560 @@
+YEAR,DATA_VALUE,CATEGORY,INDICATOR_TYPE,INDICATOR_NAME,SUBMISSION_YEAR,UNITS
+1983,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1984,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1985,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1986,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1987,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1988,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1989,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1990,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1991,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1992,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1993,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1994,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1995,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1996,74,Commercial,Socioeconomic,Active_Vessels,2025,n
+1997,82,Commercial,Socioeconomic,Active_Vessels,2025,n
+1998,77,Commercial,Socioeconomic,Active_Vessels,2025,n
+1999,65,Commercial,Socioeconomic,Active_Vessels,2025,n
+2000,60,Commercial,Socioeconomic,Active_Vessels,2025,n
+2001,44,Commercial,Socioeconomic,Active_Vessels,2025,n
+2002,57,Commercial,Socioeconomic,Active_Vessels,2025,n
+2003,56,Commercial,Socioeconomic,Active_Vessels,2025,n
+2004,89,Commercial,Socioeconomic,Active_Vessels,2025,n
+2005,95,Commercial,Socioeconomic,Active_Vessels,2025,n
+2006,115,Commercial,Socioeconomic,Active_Vessels,2025,n
+2007,105,Commercial,Socioeconomic,Active_Vessels,2025,n
+2008,96,Commercial,Socioeconomic,Active_Vessels,2025,n
+2009,101,Commercial,Socioeconomic,Active_Vessels,2025,n
+2010,107,Commercial,Socioeconomic,Active_Vessels,2025,n
+2011,91,Commercial,Socioeconomic,Active_Vessels,2025,n
+2012,86,Commercial,Socioeconomic,Active_Vessels,2025,n
+2013,99,Commercial,Socioeconomic,Active_Vessels,2025,n
+2014,85,Commercial,Socioeconomic,Active_Vessels,2025,n
+2015,86,Commercial,Socioeconomic,Active_Vessels,2025,n
+2016,82,Commercial,Socioeconomic,Active_Vessels,2025,n
+2017,98,Commercial,Socioeconomic,Active_Vessels,2025,n
+2018,90,Commercial,Socioeconomic,Active_Vessels,2025,n
+2019,67,Commercial,Socioeconomic,Active_Vessels,2025,n
+2020,65,Commercial,Socioeconomic,Active_Vessels,2025,n
+2021,61,Commercial,Socioeconomic,Active_Vessels,2025,n
+2022,46,Commercial,Socioeconomic,Active_Vessels,2025,n
+2023,50,Commercial,Socioeconomic,Active_Vessels,2025,n
+2024,45,Commercial,Socioeconomic,Active_Vessels,2025,n
+2025,NA,Commercial,Socioeconomic,Active_Vessels,2025,n
+1983,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1984,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1985,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1986,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1987,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1988,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1989,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1990,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1991,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1992,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1993,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1994,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1995,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1996,193384378,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1997,213727170,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1998,181442464,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1999,175008372,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2000,166300410,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2001,215410225,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2002,150772959,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2003,214171061,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2004,185337027,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2005,215310879,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2006,212128036,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2007,163113192,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2008,174421047,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2009,224665482,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2010,144977010,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2011,177099081,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2012,193505848,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2013,208154042,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2014,206278130,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2015,175780908,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2016,138384978,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2017,108166026,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2018,96511046,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2019,28655997,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2020,21015695,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2021,11214454,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2022,9301245,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2023,22142456,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2024,22651000,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+2025,NA,Commercial,Socioeconomic,Commercial_Landings,2025,lbs
+1983,NA,Condition,Ecosystem,condition_GB,2025,NA
+1984,NA,Condition,Ecosystem,condition_GB,2025,NA
+1985,NA,Condition,Ecosystem,condition_GB,2025,NA
+1986,NA,Condition,Ecosystem,condition_GB,2025,NA
+1987,NA,Condition,Ecosystem,condition_GB,2025,NA
+1988,NA,Condition,Ecosystem,condition_GB,2025,NA
+1989,NA,Condition,Ecosystem,condition_GB,2025,NA
+1990,NA,Condition,Ecosystem,condition_GB,2025,NA
+1991,NA,Condition,Ecosystem,condition_GB,2025,NA
+1992,0.799962096,Condition,Ecosystem,condition_GB,2025,NA
+1993,1.030802708,Condition,Ecosystem,condition_GB,2025,NA
+1994,1.100359846,Condition,Ecosystem,condition_GB,2025,NA
+1995,1.046675478,Condition,Ecosystem,condition_GB,2025,NA
+1996,1.053974022,Condition,Ecosystem,condition_GB,2025,NA
+1997,1.03076988,Condition,Ecosystem,condition_GB,2025,NA
+1998,1.051240965,Condition,Ecosystem,condition_GB,2025,NA
+1999,1.083848961,Condition,Ecosystem,condition_GB,2025,NA
+2000,1.176529632,Condition,Ecosystem,condition_GB,2025,NA
+2001,1.038911569,Condition,Ecosystem,condition_GB,2025,NA
+2002,0.982664127,Condition,Ecosystem,condition_GB,2025,NA
+2003,1.086356989,Condition,Ecosystem,condition_GB,2025,NA
+2004,0.995639181,Condition,Ecosystem,condition_GB,2025,NA
+2005,1.004400361,Condition,Ecosystem,condition_GB,2025,NA
+2006,1.072309639,Condition,Ecosystem,condition_GB,2025,NA
+2007,1.130067287,Condition,Ecosystem,condition_GB,2025,NA
+2008,1.092167252,Condition,Ecosystem,condition_GB,2025,NA
+2009,0.970993697,Condition,Ecosystem,condition_GB,2025,NA
+2010,0.965623623,Condition,Ecosystem,condition_GB,2025,NA
+2011,0.96615473,Condition,Ecosystem,condition_GB,2025,NA
+2012,1.037859443,Condition,Ecosystem,condition_GB,2025,NA
+2013,1.006823811,Condition,Ecosystem,condition_GB,2025,NA
+2014,1.062385915,Condition,Ecosystem,condition_GB,2025,NA
+2015,1.095143087,Condition,Ecosystem,condition_GB,2025,NA
+2016,1.031291951,Condition,Ecosystem,condition_GB,2025,NA
+2017,0.970007014,Condition,Ecosystem,condition_GB,2025,NA
+2018,1.051672822,Condition,Ecosystem,condition_GB,2025,NA
+2019,1.0443029,Condition,Ecosystem,condition_GB,2025,NA
+2020,NA,Condition,Ecosystem,condition_GB,2025,NA
+2021,1.004424672,Condition,Ecosystem,condition_GB,2025,NA
+2022,0.981974898,Condition,Ecosystem,condition_GB,2025,NA
+2023,1.100239297,Condition,Ecosystem,condition_GB,2025,NA
+2024,1.11172795,Condition,Ecosystem,condition_GB,2025,NA
+2025,NA,Condition,Ecosystem,condition_GB,2025,NA
+1983,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1984,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1985,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1986,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1987,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1988,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1989,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1990,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1991,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1992,0.93584871,Condition,Ecosystem,condition_GOM,2025,NA
+1993,1.059591167,Condition,Ecosystem,condition_GOM,2025,NA
+1994,1.010636934,Condition,Ecosystem,condition_GOM,2025,NA
+1995,1.038002044,Condition,Ecosystem,condition_GOM,2025,NA
+1996,0.989086562,Condition,Ecosystem,condition_GOM,2025,NA
+1997,0.977511913,Condition,Ecosystem,condition_GOM,2025,NA
+1998,0.982104128,Condition,Ecosystem,condition_GOM,2025,NA
+1999,0.995965122,Condition,Ecosystem,condition_GOM,2025,NA
+2000,1.01149862,Condition,Ecosystem,condition_GOM,2025,NA
+2001,0.971182698,Condition,Ecosystem,condition_GOM,2025,NA
+2002,0.965430056,Condition,Ecosystem,condition_GOM,2025,NA
+2003,0.994948269,Condition,Ecosystem,condition_GOM,2025,NA
+2004,0.96947654,Condition,Ecosystem,condition_GOM,2025,NA
+2005,0.957794763,Condition,Ecosystem,condition_GOM,2025,NA
+2006,0.994489014,Condition,Ecosystem,condition_GOM,2025,NA
+2007,1.040725466,Condition,Ecosystem,condition_GOM,2025,NA
+2008,0.993228802,Condition,Ecosystem,condition_GOM,2025,NA
+2009,0.997289648,Condition,Ecosystem,condition_GOM,2025,NA
+2010,0.93929298,Condition,Ecosystem,condition_GOM,2025,NA
+2011,0.964999778,Condition,Ecosystem,condition_GOM,2025,NA
+2012,0.962214491,Condition,Ecosystem,condition_GOM,2025,NA
+2013,0.965714293,Condition,Ecosystem,condition_GOM,2025,NA
+2014,0.971369717,Condition,Ecosystem,condition_GOM,2025,NA
+2015,0.972555133,Condition,Ecosystem,condition_GOM,2025,NA
+2016,0.995658677,Condition,Ecosystem,condition_GOM,2025,NA
+2017,0.951114375,Condition,Ecosystem,condition_GOM,2025,NA
+2018,0.984806422,Condition,Ecosystem,condition_GOM,2025,NA
+2019,0.957309327,Condition,Ecosystem,condition_GOM,2025,NA
+2020,NA,Condition,Ecosystem,condition_GOM,2025,NA
+2021,0.990091198,Condition,Ecosystem,condition_GOM,2025,NA
+2022,0.974363423,Condition,Ecosystem,condition_GOM,2025,NA
+2023,1.030449803,Condition,Ecosystem,condition_GOM,2025,NA
+2024,1.020059315,Condition,Ecosystem,condition_GOM,2025,NA
+2025,NA,Condition,Ecosystem,condition_GOM,2025,NA
+1983,NA,Condition,Ecosystem,condition_SS,2025,NA
+1984,NA,Condition,Ecosystem,condition_SS,2025,NA
+1985,NA,Condition,Ecosystem,condition_SS,2025,NA
+1986,NA,Condition,Ecosystem,condition_SS,2025,NA
+1987,NA,Condition,Ecosystem,condition_SS,2025,NA
+1988,NA,Condition,Ecosystem,condition_SS,2025,NA
+1989,NA,Condition,Ecosystem,condition_SS,2025,NA
+1990,NA,Condition,Ecosystem,condition_SS,2025,NA
+1991,NA,Condition,Ecosystem,condition_SS,2025,NA
+1992,1.027560262,Condition,Ecosystem,condition_SS,2025,NA
+1993,1.051107821,Condition,Ecosystem,condition_SS,2025,NA
+1994,1.024590114,Condition,Ecosystem,condition_SS,2025,NA
+1995,1.027970598,Condition,Ecosystem,condition_SS,2025,NA
+1996,1.002460573,Condition,Ecosystem,condition_SS,2025,NA
+1997,1.086680062,Condition,Ecosystem,condition_SS,2025,NA
+1998,0.987506288,Condition,Ecosystem,condition_SS,2025,NA
+1999,1.033745148,Condition,Ecosystem,condition_SS,2025,NA
+2000,0.879534521,Condition,Ecosystem,condition_SS,2025,NA
+2001,0.961301008,Condition,Ecosystem,condition_SS,2025,NA
+2002,0.961086893,Condition,Ecosystem,condition_SS,2025,NA
+2003,1.008182641,Condition,Ecosystem,condition_SS,2025,NA
+2004,0.986441235,Condition,Ecosystem,condition_SS,2025,NA
+2005,0.96822138,Condition,Ecosystem,condition_SS,2025,NA
+2006,0.987007816,Condition,Ecosystem,condition_SS,2025,NA
+2007,1.000348347,Condition,Ecosystem,condition_SS,2025,NA
+2008,1.05082218,Condition,Ecosystem,condition_SS,2025,NA
+2009,0.96016548,Condition,Ecosystem,condition_SS,2025,NA
+2010,0.976972738,Condition,Ecosystem,condition_SS,2025,NA
+2011,0.965820299,Condition,Ecosystem,condition_SS,2025,NA
+2012,0.951721205,Condition,Ecosystem,condition_SS,2025,NA
+2013,1.011656665,Condition,Ecosystem,condition_SS,2025,NA
+2014,0.999282966,Condition,Ecosystem,condition_SS,2025,NA
+2015,0.974295238,Condition,Ecosystem,condition_SS,2025,NA
+2016,0.953311199,Condition,Ecosystem,condition_SS,2025,NA
+2017,0.914718764,Condition,Ecosystem,condition_SS,2025,NA
+2018,NA,Condition,Ecosystem,condition_SS,2025,NA
+2019,0.983295164,Condition,Ecosystem,condition_SS,2025,NA
+2020,NA,Condition,Ecosystem,condition_SS,2025,NA
+2021,0.990194415,Condition,Ecosystem,condition_SS,2025,NA
+2022,0.957726206,Condition,Ecosystem,condition_SS,2025,NA
+2023,1.021919156,Condition,Ecosystem,condition_SS,2025,NA
+2024,0.997164564,Condition,Ecosystem,condition_SS,2025,NA
+2025,NA,Condition,Ecosystem,condition_SS,2025,NA
+1983,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1984,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1985,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1986,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1987,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1988,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1989,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1990,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1991,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1992,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1993,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1994,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1995,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1996,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1997,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1998,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1999,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2000,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2001,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2002,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2003,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2004,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2005,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2006,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2007,3,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2008,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2009,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2010,3,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2011,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2012,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2013,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2014,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2015,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2016,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2017,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2018,3,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2019,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2020,1,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2021,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2022,4,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2023,3,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2024,2,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+2025,NA,Commercial,Socioeconomic,Fuel_Price,2025,2024 $USD
+1983,11.74771,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1984,11.68301,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1985,12.1814,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1986,12.17466,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1987,11.92468,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1988,12.60631,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1989,12.8309,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1990,11.76604,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1991,11.8402,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1992,11.86277,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1993,11.87751,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1994,11.28651,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1995,12.49559,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1996,11.86555,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1997,12.00489,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1998,11.98227,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1999,12.62818,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2000,13.01156,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2001,13.57461,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2002,13.73692,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2003,14.04201,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2004,14.43826,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2005,14.30515,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2006,14.49575,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2007,13.821,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2008,13.43929,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2009,14.69805,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2010,14.869,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2011,15.09514,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2012,14.32885,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2013,15.34882,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2014,15.53164,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2015,14.91029,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2016,15.61389,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2017,14.95662,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2018,14.55184,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2019,13.60456,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2020,13.06301,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2021,12.50965,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2022,12.48181,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2023,11.6451,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2024,NA,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+2025,NA,Upper Trophic,Ecosystem,Haddock_Predation,2025,NA
+1983,96,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1984,100,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1985,77,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1986,90,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1987,99,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1988,85,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1989,85,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1990,74,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1991,80,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1992,88,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1993,95,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1994,102,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1995,70,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1996,113,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1997,88,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1998,93,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1999,68,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2000,93,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2001,85,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2002,73,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2003,82,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2004,82,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2005,71,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2006,78,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2007,93,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2008,64,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2009,45,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2010,81,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2011,64,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2012,56,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2013,60,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2014,65,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2015,66,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2016,66,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2017,62,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2018,75,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2019,63,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2020,61,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2021,55,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2022,50,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2023,96,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2024,56,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+2025,NA,Physical Oceanography,Ecosystem,Optimal_temp_duration,2025,days
+1983,259,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1984,265,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1985,286,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1986,260,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1987,267,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1988,282,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1989,281,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1990,286,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1991,283,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1992,279,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1993,271,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1994,254,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1995,296,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1996,248,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1997,278,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1998,273,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1999,297,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2000,268,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2001,281,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2002,293,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2003,284,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2004,285,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2005,295,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2006,288,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2007,273,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2008,294,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2009,280,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2010,285,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2011,295,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2012,303,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2013,299,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2014,300,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2015,298,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2016,299,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2017,299,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2018,291,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2019,303,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2020,306,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2021,300,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2022,269,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2023,270,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2024,300,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+2025,NA,Physical Oceanography,Ecosystem,Optimal_temp_start,2025,n day of year
+1983,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1984,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1985,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1986,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1987,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1988,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1989,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1990,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1991,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1992,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1993,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1994,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1995,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1996,0.141929075,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1997,0.124358751,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1998,0.185870335,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1999,0.14446789,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2000,0.11719089,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2001,0.122931302,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2002,0.122828119,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2003,0.1315099,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2004,0.162021697,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2005,0.185931787,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2006,0.226173922,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2007,0.252390921,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2008,0.272208929,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2009,0.246844038,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2010,0.28578186,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2011,0.263014197,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2012,0.272816062,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2013,0.2471807,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2014,0.234815255,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2015,0.235941812,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2016,0.308795601,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2017,0.361605078,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2018,0.370528668,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2019,0.527217567,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2020,0.473161817,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2021,0.568010688,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2022,0.541524828,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2023,0.468638688,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2024,0.623383403,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+2025,NA,Commerical,Socioeconomic,Price_per_Pound,2025,2024 $USD/lb
+1983,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1984,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1985,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1986,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1987,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1988,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1989,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1990,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1991,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1992,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1993,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1994,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1995,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1996,20059908,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1997,21035838,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1998,19869688,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1999,19449306,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2000,17568672,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2001,21866578,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2002,16251848,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2003,25267444,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2004,22972392,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2005,31048514,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2006,32749120,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2007,25392008,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2008,28966656,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2009,32548892,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2010,25660704,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2011,31856212,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2012,35624464,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2013,39490916,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2014,37384256,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2015,31540226,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2016,36820336,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2017,33850444,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2018,28345120,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2019,11690802,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2020,8132364,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2021,4334243,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2022,3844874,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2023,7747716,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2024,8276793,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+2025,NA,Commerical,Socioeconomic,Total_Commercial_Revenue,2025,2024 $USD
+1983,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1984,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1985,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1986,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1987,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1988,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1989,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1990,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1991,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1992,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1993,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1994,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1995,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1996,271080,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1997,256535,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1998,258048,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1999,299220,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2000,292811,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2001,496968,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2002,285120,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2003,451204,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2004,258117,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2005,326826,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2006,284775,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2007,241829,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2008,301736,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2009,322266,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2010,242082,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2011,353958,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2012,419111,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2013,398898,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2014,439815,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2015,366747,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2016,449029,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2017,345413,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2018,314946,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2019,174490,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2020,127068,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2021,72237,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2022,85442,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2023,158117,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2024,188109,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+2025,NA,Commerical,Socioeconomic,Vessel_Revenue_per_Year,2025,2024 $USD/lb
+1983,0.9475,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1984,0.575,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1985,-0.475,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1986,0.51,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1987,-0.1875,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1988,0.4825,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1989,1.4075,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1990,0.69,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1991,0.48,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1992,0.5675,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1993,0.81,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1994,1.08,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1995,1.335,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1996,-0.525,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1997,0.315,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1998,0.0475,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+1999,0.54,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2000,1.17,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2001,-0.285,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2002,0.35,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2003,0.04,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2004,0.3075,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2005,0.21,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2006,-0.24085,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2007,0.63295,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2008,0.5111,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2009,0.0862,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2010,-1.475475,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2011,-0.352475,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2012,1.3452,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2013,-0.387275,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2014,0.842375,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2015,1.604675,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2016,1.1687,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2017,0.674575,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2018,0.7437,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2019,0.681775,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2020,1.2036,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2021,-0.136275,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2022,0.95425,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2023,0.22965,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2024,0.75445,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
+2025,0.645,Physical Oceanography,Ecosystem,Winter_NAO,2025,NA
