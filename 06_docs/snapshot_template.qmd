@@ -13,13 +13,13 @@ format:
     # keep-tex: true
     papersize: letter
 latex_engine: xelatex
-bibliography: references.bib
+bibliography: herr_references.bib
 params:
   widths: !expr c(0.9, 0.75, 2.5, 3.5)
   img1: !expr here::here("05_images/herrmap.png")
   img2: !expr here::here("05_images/herring_condition_final.png")
   img3: !expr here::here("05_images/noaa_logo.png")
-  tbl_file: !expr here::here("06_docs/table_herring.csv")
+  tbl_file: !expr here::here("06_docs/table_herring.xlsx")
   img_dir: !expr here::here("05_images")
   terminal_year: 2024
 ---
@@ -58,7 +58,7 @@ This is a short-form update to the full Ecosystem and Socioeconomic Profile [@mo
 -   Explored a recruitment index from seabird diet data [@hardison2025]
 -   Developed indicators of predation by haddock [@micah2025development], food availability [@gaichas2024developing], and temperatures experienced by larvae [@molina2025temperature] to test as ecosystem covariates for recruitment but none significantly improved the model [@gaichas2024recruitment]
 
-\subsection{Fishing community observations [@cournane2024atlantic]}
+\subsection{Fishing community observations}
 
 -   Market processes: increased reliance on menhaden due to declining and inconsistent herring catch, reduced quotas, higher fuel prices, river herring bycatch
 -   Ecological concerns: warming, changing zooplankton and forage base, haddock predation, altered predator-prey interactions
@@ -112,9 +112,10 @@ Commercial landings, number of vessels, and vessel revenue have seen recent decl
 \newgeometry{top=0.75in, left=0.25in, right=0.25in, bottom=0.75in}
 
 ```{r}
-data <- NEesp2::format_tbl_data(file = params$tbl_file,
-                            term_year = params$terminal_year,
-                            dir = params$img_dir)
+data <- readxl::read_excel(params$tbl_file) |>
+  janitor::clean_names() |>
+  dplyr::mutate(figure =  paste0(params$img_dir, "/", time_series)) |>
+  dplyr::select(-time_series)
 ```
 
 ```{r}
@@ -126,7 +127,9 @@ tbl <- flextable::font(tbl, fontname = "Times New Roman", part = "header")
 
 tbl
 ```
-
+\vspace{-0.4cm}
+\centering\footnotesize \* [9] = North Atlantic Oscillation, Climate Prediction Center, National Centers for Environmental Predictions [dataset] \newline
+\centering\footnotesize \* [10] = Atlantic Herring Quota Monitoring [dataset] \newline
 
 ::: {}
 
