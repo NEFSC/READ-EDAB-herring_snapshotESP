@@ -21,7 +21,7 @@ params:
   img3: !expr here::here("05_images/noaa_logo.png")
   tbl_file: !expr here::here("06_docs/table_herring.xlsx")
   img_dir: !expr here::here("05_images")
-  terminal_year: 2024
+  terminal_year: 2025
 ---
 
 ```{r setup, include=FALSE}
@@ -31,6 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 \vspace{-2cm}
+\pagenumbering{gobble}
 
 \section{Summer `r params$terminal_year`}
 
@@ -108,8 +109,9 @@ Commercial landings, number of vessels, and vessel revenue have seen recent decl
 ::::
 
 \newpage
+\pagenumbering{gobble}
 
-\newgeometry{top=0.75in, left=0.25in, right=0.25in, bottom=0.75in}
+\newgeometry{top=0.25in, left=0.25in, right=0.25in, bottom=0.75in}
 
 ```{r}
 data <- readxl::read_excel(params$tbl_file) |>
@@ -138,15 +140,17 @@ tbl
 
 
 \centering\normalsize
-We welcome your observations! Please contact northeast.ecosystem.highlights@noaa.gov with any on-the-water
-insights or changes observed in the Atlantic herring fishery and [nefsc.esp.leads@noaa.gov](nefsc.esp.leads@noaa.gov) with questions or comments on the information presented in this report.
+We welcome your observations! Please contact [northeast.ecosystem.highlights@noaa.gov](northeast.ecosystem.highlights@noaa.gov) with any on-the-water
+insights or changes observed in the Atlantic herring fishery and [nefsc.esp.leads@noaa.gov](nefsc.esp.leads@noaa.gov) with questions or comments on the information presented in this report. \newline
+
+The code used to create this report can be viewed online: [github.com/NEFSC/READ-EDAB-herring_snapshotESP](github.com/NEFSC/READ-EDAB/herring_snapshotESP)
 :::
 
 \newpage
+\pagenumbering{gobble}
 \newgeometry{top=1in, left=1in, right=1in, bottom=1in}
 
 ::: {}
 \section{References}
-# References
 ::: {#refs}
 :::
